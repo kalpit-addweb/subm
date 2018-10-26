@@ -1,0 +1,4 @@
+[submodule "code/codeship"]
+	path = code/codeship
+	url = git@github.com:kalpit-addweb/codeship.git
+	branch = master
