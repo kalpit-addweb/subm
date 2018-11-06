@@ -1,7 +1,7 @@
 # Nomad
 A Sample art of work on Nomad
 
-## Architecture Diagram
+# Architecture Diagram
 
 ![nomad-architecture-region-a5b20915](https://user-images.githubusercontent.com/8342133/34456790-27df08d0-edc6-11e7-9f4a-62679f6e7a3d.png)
 
@@ -9,7 +9,7 @@ For multiple data center
 
 ![nomad-architecture-global-a8f14b78](https://user-images.githubusercontent.com/8342133/34456799-4246d536-edc6-11e7-9ff8-4663bb55f463.png)
 
-## Vault Config File
+### Vault Config File
 
 Sample nomad.conf file
 
